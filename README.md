@@ -6,7 +6,7 @@ Solución Financiera para la Empresa Five Pack Alliance.
 pip install -r requirements.txt`
 De esta forma tendrán instalado lo necesario
 
-### Cambiar requerimientos (NO HACER - SOLO EL S**CUM** MASTER)
+### Cambiar requerimientos (NO HACER - SOLO EL SCRUM MASTER)
 `pip list --format=freeze > requirements.txt`
 
 ### Correr la app
