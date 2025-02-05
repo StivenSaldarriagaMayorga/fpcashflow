@@ -59,4 +59,3 @@ with tab3:
                 st.write(f"✔️ {factura['Factura']} - ${factura['Monto a consignar']} - {factura['Proveedor']}")
         else:
             st.warning("⚠️ No se seleccionó ninguna factura para pagar.")
-
