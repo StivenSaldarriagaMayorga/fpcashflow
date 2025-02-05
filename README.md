@@ -1,10 +1,14 @@
 # fpcashflow
 Solución Financiera para la Empresa Five Pack Alliance.
 
-### Instalar requerimientos con sus versiones respectivas
+## How to run
+### 1. Instalar requerimientos con sus versiones respectivas
 `pip install --upgrade pip
 pip install -r requirements.txt`
-De esta forma tendrán instalado lo necesario
+De esta forma tendrán instalado lo necesario.
+
+### 2. Crear un archivo `.env`
+Copia las pautas de `.env.example` en el `.env` y añade los datos respectivos.
 
 ### Cambiar requerimientos (NO HACER - SOLO EL SCRUM MASTER)
 `pip list --format=freeze > requirements.txt`
