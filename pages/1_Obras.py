@@ -18,4 +18,4 @@ if getAuth0():
   col1.metric(label="# de Obras", value=f"{nworks:,.0f}")
   col2.metric(label="Pago Potencial", value=f"${potential_payment:,.0f}")
   col3.metric(label="Desviación de Pagos", value=f"${payment_deviation:,.2f}")
-  st.write(w)
+  st.write(w) 
